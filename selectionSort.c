@@ -7,6 +7,7 @@ void printArray(int *arr, int sizeOfArray);
 void scanArray(int *arr, int sizeOfArray);  
 void assignArray(int *arr, int sizeOfArray);
 void selectionSort(int *arr, int sizeOfArray);
+// function for selection sort
 
 int main()
 {
